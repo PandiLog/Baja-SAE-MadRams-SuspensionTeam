@@ -31,10 +31,19 @@ To ensure dimensional accuracy and repeatability during the physical build, cust
 * **Hardware Integration:** Successfully manufactured and integrated suspension bushings and control arms for competition standards.
 
 <div align="center">
-  <!-- Agrega tu imagen del fixture de acero aquí abajo. Solo cambia el "src" por el nombre de tu archivo (ej. steel_fixture.jpg) -->
   <img src="CAD_Models/Screenshot 2026-05-02 133829.png" alt="Steel Fixture and Manufacturing" width="700"/>
   <p><i>Figure 4: Custom steel fixture design for manufacturing of the A-Arms (CAD).</i></p>
 </div>
+
+<div align="center">
+  <img src="Manufacturing/WhatsApp Image 2026-05-02 at 1.13.35 PM.jpeg" alt="Steel Fixture and Manufacturing" width="700"/>
+  <p><i>Figure 5: Custom steel fixture.</i></p>
+</div>
+<div align="center">
+  <img src="Manufacturing/WhatsApp Image 2026-05-02 at 1.13.36 PM (2).jpeg" alt="Steel Fixture and Manufacturing" width="700"/>
+  <p><i>Figure 6: Manufacturing Results.</i></p>
+</div>
+
 
 ##  Software & Tools Used
 * **CAD Design:** SolidWorks
