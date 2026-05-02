@@ -13,11 +13,15 @@ A comprehensive Worst-Case Scenario (WCS) analysis was conducted to evaluate mul
 
 <div align="center">
   <img src="FEA_Results/Screenshot 2026-04-23 184148.png" alt="WCS FEA Simulation" width="700"/>
-  <p><i>Figure 1: FEA LowerRear A-Arms Results.</i></p>
+  <p><i>Figure 1: FEA LowerRear A-Arms Results 1st Configuration.</i></p>
 </div>
 <div align="center">
   <img src="FEA_Results/Screenshot 2026-04-23 184253.png" alt="WCS FEA Simulation" width="700"/>
   <p><i>Figure 2: FEA LowerRear A-Arms Results 2nd Configuration.</i></p>
+</div>
+<div align="center">
+  <img src="FEA_Results/Screenshot 2026-04-23 184555.png" alt="WCS FEA Simulation" width="700"/>
+  <p><i>Figure 3: Displacement Comparison in LowerRear A-Arms Tubes (Configuration 1 and 2).</i></p>
 </div>
 
 ### 2. Manufacturing & Steel Fixture Design
