@@ -20,7 +20,7 @@ A comprehensive Worst-Case Scenario (WCS) analysis was conducted to evaluate mul
   <p><i>Figure 2: FEA LowerRear A-Arms Results 2nd Configuration.</i></p>
 </div>
 <div align="center">
-  <img src="FEA_Results/Screenshot 2026-04-23 184555.png" alt="WCS FEA Simulation" width="700"/>
+  <img src="Scripts/Screenshot 2026-04-23 184555.png" alt="WCS FEA Simulation" width="700"/>
   <p><i>Figure 3: Displacement Comparison in LowerRear A-Arms Tubes (Configuration 1 and 2).</i></p>
 </div>
 
