@@ -6,7 +6,7 @@ This repository documents the structural engineering, validation, and manufactur
 
 ### 1. WCS Structural Analysis & Optimization
 A comprehensive Worst-Case Scenario (WCS) analysis was conducted to evaluate multi-axis dynamic loads (Bump + Cornering) on the suspension assembly.
-* **Material Trade-off Study:** Evaluated the mechanical and elastokinematic behavior of AISI 4130 Chromoly versus 6061-T6 Aluminum.
+* **Trade-off Study:** Evaluated the mechanical and elastokinematic behavior of AISI 4130 Chromoly versus 6061-T6 Aluminum and different design configurations, evaluating the weight trade-off.
 * **Mass Optimization:** Achieved over 50% unsprung mass reduction across the A-Arm assembly.
 * **Validation:** Maintained a Factor of Safety (FOS) > 2.0 against yield strength, utilizing linear static FEA and analyzing specific stiffness metrics.
 * **Data Processing:** Implemented Python scripts to automate the post-processing of FEA results, mapping stress distributions along critical paths.
