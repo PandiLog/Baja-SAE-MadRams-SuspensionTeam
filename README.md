@@ -52,8 +52,8 @@ To ensure dimensional accuracy and repeatability during the physical build, cust
 * **Manufacturing:** Technical Drawings, GD&T, Welding, Custom Fixturing
 
 ##  Repository Structure
-* `/CAD_Models`: Contains the assembly drawings and picture of the geometric models of the A-Arms and the steel fixtures.
-* `/FEA_Results`: Contains pictures of the FEA.
-* `/Manufacturing`: Contains pictures of the manufacture process.
-* `/Scripts`: Contains the results of the post-processing and performance plotting with python (Matplotlib and Pandas).
+* `/CAD_Models`: Assembly drawings and geometric models of the A-Arms and custom steel fixtures.
+* `/FEA_Results`: Visual results of the FEA.
+* `/Manufacturing`: Visuals of the manufacture process.
+* `/Scripts`: Results of the post-processing and performance plotting with python (Matplotlib and Pandas).
 * `/Documentation`: Engineering reports and FBD calculations.
