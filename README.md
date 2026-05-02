@@ -12,7 +12,7 @@ A comprehensive Worst-Case Scenario (WCS) analysis was conducted to evaluate mul
 * **Data Processing:** Implemented Python scripts to automate the post-processing of FEA results, mapping stress distributions along critical paths.
 
 <div align="center">
-  <img src="ruta/a/tu/imagen_fea.jpg" alt="WCS FEA Simulation" width="700"/>
+  <img src="FEA_Results/Screenshot 2026-04-23 184148.png" alt="WCS FEA Simulation" width="700"/>
   <p><i>Figure 1: Stress distribution mapping and WCS structural analysis.</i></p>
 </div>
 
