@@ -32,8 +32,8 @@ To ensure dimensional accuracy and repeatability during the physical build, cust
 
 <div align="center">
   <!-- Agrega tu imagen del fixture de acero aquí abajo. Solo cambia el "src" por el nombre de tu archivo (ej. steel_fixture.jpg) -->
-  <img src="ruta/a/tu/imagen_fixture.jpg" alt="Steel Fixture and Manufacturing" width="700"/>
-  <p><i>Figure 2: Custom steel fixture design and physical manufacturing of the A-Arms.</i></p>
+  <img src="CAD_Models/Screenshot 2026-05-02 133829.png" alt="Steel Fixture and Manufacturing" width="700"/>
+  <p><i>Figure 4: Custom steel fixture design and physical manufacturing of the A-Arms.</i></p>
 </div>
 
 ##  Software & Tools Used
